@@ -1,10 +1,2 @@
-this line is updeted to know how git stash will work
+this is the only one line
 
-updated in development branch
-hey git branch utilities
-
-hi this is utilities 
-
-
-
-im upteded
